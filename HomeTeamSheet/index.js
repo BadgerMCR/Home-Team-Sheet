@@ -1,6 +1,6 @@
 module.exports = {
-	name: "HomeTeamSheet",
-	description: "Team Sheet for Home Team",
+	name: "newteamsheet",
+	description: "should be working",
 	category: "Basic",
 	icon: "image",
 	hasEntries: true,
@@ -19,82 +19,82 @@ module.exports = {
 			type: "String"
 		},
 		{
-			name: "fwd1",
+			name: "fd1",
 			description: "Forwards 1",
 			type: "String"
 		},
 		{
-			name: "fwd2",
+			name: "fd2",
 			description: "Forwards 2",
 			type: "String"
 		},
 		{
-			name: "fwd3",
+			name: "fd3",
 			description: "Forwards 3",
 			type: "String"
 		},
 		{
-			name: "fwd4",
+			name: "fd4",
 			description: "Forwards 4",
 			type: "String"
 		},
 		{
-			name: "fwd5",
+			name: "fd5",
 			description: "Forwards 5",
 			type: "String"
 		},
 		{
-			name: "fwd6",
+			name: "fd6",
 			description: "Forwards 6",
 			type: "String"
 		},
 		{
-			name: "fwd7",
+			name: "fd7",
 			description: "Forwards 7",
 			type: "String"
 		},
 		{
-			name: "fwd8",
+			name: "fd8",
 			description: "Forwards 8",
 			type: "String"
 		},
 		{
-			name: "backs1",
+			name: "bk1",
 			description: "Backs 9",
 			type: "String"
 		},
 		{
-			name: "backs2",
+			name: "bk2",
 			description: "Backs 10",
 			type: "String"
 		},
 		{
-			name: "backs3",
+			name: "bk3",
 			description: "Backs 11",
 			type: "String"
 		},
 		{
-			name: "backs4",
+			name: "bk4",
 			description: "Backs 12",
 			type: "String"
 		},
 		{
-			name: "backs5",
+			name: "bk5",
 			description: "Backs 13",
 			type: "String"
 		},
 		{
-			name: "backs6",
+			name: "bk6",
 			description: "Backs 14",
 			type: "String"
 		},
 		{
-			name: "backs7",
+			name: "bk7",
 			description: "Backs 15",
 			type: "String"
 		},
 		{
-			name: "backs8",
+			name: "bk8",
 			description: "DOR",
 			type: "String"
 			
